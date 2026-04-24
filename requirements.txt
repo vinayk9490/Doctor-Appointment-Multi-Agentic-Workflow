@@ -1,0 +1,10 @@
+langchain
+langchain_groq
+python-dotenv
+pandas
+langgraph
+langchain-mcp-adapters
+mcp
+langchain_openai
+langgraph_supervisor
+playwright
